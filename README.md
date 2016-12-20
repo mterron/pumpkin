@@ -1,4 +1,4 @@
-# Pumpkin ![logo](pumpkin.png)
+# PumpKIN ![logo](pumpkin.png)
 Mac OS X TFTP client/server application
 
 ![screenshot](screenshot.png)
@@ -20,4 +20,3 @@ The main PumpKIN features are:
 
 
 Note that PumpKIN is not an FTP server, neither it is an FTP client, it is a TFTP server and TFTP client. TFTP is not FTP, these are different protocols. TFTP, unlike FTP, is used primarily for transferring files to and from the network equipment (e.g. your router, switch, hub, whatnot firmware upgrade or backup, or configuration backup and restore) that supports using of TFTP server for, not for general purpose serving downloadable files or retrieving files from the FTP servers around the world.
-
