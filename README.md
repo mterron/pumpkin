@@ -1,4 +1,4 @@
-# Pumpkin
+# Pumpkin ![logo](pumpkin.png)
 Mac OS X TFTP client/server application
 
 ![screenshot](screenshot.png)

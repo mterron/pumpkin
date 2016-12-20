@@ -1,1 +1,5 @@
 .DS_Store
+out/
+pumpkin/Logs/ 
+pumpkin.xcodeproj/xcuserdata/*
+pumpkin.xcodeproj/project.xcworkspace/xcuserdata/*

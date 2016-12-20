@@ -172,7 +172,7 @@
                         <rect key="frame" x="15" y="41" width="570" height="266"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <customView fixedFrame="YES" id="537">
+                            <customView id="537">
                                 <rect key="frame" x="0.0" y="0.0" width="570" height="133"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <subviews>
@@ -276,8 +276,12 @@
                                         </tableHeaderView>
                                     </scrollView>
                                 </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="133" id="0Sy-IY-kfm"/>
+                                    <constraint firstAttribute="width" constant="570" id="WjQ-2S-ref"/>
+                                </constraints>
                             </customView>
-                            <customView canDrawConcurrently="YES" fixedFrame="YES" id="538">
+                            <customView canDrawConcurrently="YES" id="538">
                                 <rect key="frame" x="0.0" y="134" width="570" height="132"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <subviews>
@@ -309,6 +313,9 @@
                                         </scroller>
                                     </scrollView>
                                 </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="132" id="pFC-eL-9b2"/>
+                                </constraints>
                             </customView>
                         </subviews>
                         <holdingPriorities>
