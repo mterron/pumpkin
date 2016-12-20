@@ -1,11 +1,11 @@
 # PumpKIN ![logo](pumpkin.png)
 Mac OS X TFTP client/server application
-
+Fork of http://kin.klever.net/pumpkin
 ![screenshot](screenshot.png)
 
 PumpKIN is an open source, fully functional, free TFTP server and TFTP client, which implements TFTP according to RFC1350. It also implements block size option, which allows transfer of files over 32MB, as well as transfer size and transfer timeout options described in RFC2348 and RFC2349.
 
-The primary use of PumpKIN is maintenance of the network equipment (such as router firmware upgrade) that fetches images from TFTP server.
+The primary use of PumpKIN is maintenance of network equipment (such as router firmware upgrade) that fetches images from a TFTP server.
 
 The main PumpKIN features are:
 
