@@ -610,8 +610,8 @@
     </objects>
     <resources>
         <image name="NSPathTemplate" width="16" height="10"/>
-        <image name="abort" width="512" height="512"/>
-        <image name="get" width="512" height="512"/>
-        <image name="put" width="512" height="512"/>
+        <image name="abort" width="32" height="32"/>
+        <image name="get" width="32" height="32"/>
+        <image name="put" width="32" height="32"/>
     </resources>
 </document>
